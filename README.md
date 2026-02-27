@@ -6,6 +6,9 @@
 
 ---
 
+## **QUICK HEADS UP** 
+Skip ahead to section 'CA04' since we attached CAO3 to the first half of our jupyter notebook
+
 ## Overview
 
 This project builds and evaluates four ensemble classification models using the U.S. Census Income dataset:
