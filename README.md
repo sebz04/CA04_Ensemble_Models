@@ -1,7 +1,8 @@
 # CA04 – Ensemble Models
 
 **Course:** BSAN 6070 – Machine Learning  
-**Student:** Sebastian Zapata-Ochoa  
+**Team:** 4
+**Students:** Sebastian Zapata-Ochoa and Alexander Frieder
 **Assignment:** CA04 – Ensemble Methods  
 
 ---
